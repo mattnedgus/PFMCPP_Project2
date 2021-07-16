@@ -201,9 +201,6 @@ int main()
     //3)
     //auto viewProject = setupProjectView();
 
-/* this and //6 gave error "[cquery] variable has incomplete type 'void'" */
-
-
     //4)
     auto closeW = closeWindow(320, 240);
 
